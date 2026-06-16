@@ -65,13 +65,13 @@ RentEase/
 ## Screenshots
 
 ### Home Page
-*Add project screenshot here*
+![Home Page](screenshots/home-page.png)
 
 ### Property Listings
-*Add project screenshot here*
+![Property Listings](screenshots/property-listings.png)
 
-### Admin Dashboard
-*Add project screenshot here*
+### List Property Form
+![List Property Form](screenshots/list-property-form.png)
 
 ---
 
