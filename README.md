@@ -64,7 +64,7 @@ RentEase/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshotshome-page.png)
+![Home Page](screenshots/home-page.png)
 
 ### Property Listings
 ![Property Listings](screenshots/property-listings.png)
