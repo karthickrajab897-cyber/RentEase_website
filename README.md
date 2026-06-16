@@ -65,13 +65,14 @@ RentEase/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshotshome-page.png)
 
 ### Property Listings
-![Property Listings](screenshots/property-listings.png)
+![Property Listings](screenshotslist-property-form.png)
 
 ### List Property Form
-![List Property Form](screenshots/list-property-form.png)
+![List Property Form](screenshotsproperty-listings.png)
+
 
 ---
 
