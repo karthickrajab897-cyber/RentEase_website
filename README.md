@@ -61,16 +61,18 @@ RentEase/
 ```
 
 ---
+
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+<img width="1918" height="1085" alt="Screenshot 2026-06-16 110000" src="https://github.com/user-attachments/assets/7ded5df7-59e7-4cb4-a0c4-56425b520fa6" />
 
 ### Property Listings
-![Property Listings](screenshots/property-listings.png)
+<img width="1919" height="1086" alt="Screenshot 2026-06-16 110013" src="https://github.com/user-attachments/assets/058d24b9-0ad9-41de-bedc-91cbf65c3379" />
 
 ### List Property Form
-![List Property Form](screenshots/list-property-form.png)
+<img width="1912" height="1072" alt="Screenshot 2026-06-16 110042" src="https://github.com/user-attachments/assets/153c6f49-6585-4ae9-851a-3e8d41d92e50" />
+<img width="1915" height="1060" alt="Screenshot 2026-06-16 110054" src="https://github.com/user-attachments/assets/9b1d925e-3691-4c2d-a856-69cd34754683" />
 
 ---
 
